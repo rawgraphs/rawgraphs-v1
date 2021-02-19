@@ -1,3 +1,8 @@
+### ⚠️ WARNING ⚠️
+**The v1.x of RawGraphs is no longer mantained and this repo has been archived for documentation purpose.**
+
+**You can follow the development of the the new version [here](https://github.com/rawgraphs/rawgraphs-frontend)**
+
 ![raw header](imgs/raw_header.jpg)
 
 ## About
